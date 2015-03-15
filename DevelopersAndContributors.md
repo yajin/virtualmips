@@ -1,0 +1,1 @@
+[yajin](http://home.ustc.edu.cn/~ncs):project creator and the main developer.<virtualmips AT gmail.com>
